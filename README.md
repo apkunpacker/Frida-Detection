@@ -1,9 +1,9 @@
 # Frida-Detection
 Small Apps As PoC to Detect Frida With Frida
 
-1st App Frida_Detection.apk is based on generic behaviour of frida like frida agent path or frida name in maps!
+1st App Frida_Detection.apk is based on generic behaviour of frida like frida agent path or frida name in maps
 
-[IMG_20220316_182423](https://user-images.githubusercontent.com/27184655/158594969-16fe765f-c969-43cf-8cf7-e47db367301a.jpg)
+![IMG_20220316_182423](https://user-images.githubusercontent.com/27184655/158594969-16fe765f-c969-43cf-8cf7-e47db367301a.jpg)
 
 2nd App Hook Detect.apk is based on Instruction Trampoline Changed By Frida Interceptor which detects hooks on Libc.so Open,
 Access, Stat, Syscall Export methods 
